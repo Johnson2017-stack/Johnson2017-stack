@@ -22,22 +22,12 @@ past experiences:
   - ["Front End development", "Johnson's Home improvements", "Yakima, Wa", "2023"]
  
 
-fields_of_interests: ["Front End development", "Backend Development", "Full stack Engineering"]
-currently_learning: ["MERN", "Node", "React", "JavaScript", "API's"]
+fields_of_interests: ["Front End development", "Backend Development", "Full stack Engineering", "Bootstrap", "Javascript", "React", "Node", "CSS", "API"]
+currently_learning: ["MERN", "Node", "React", "Mongo DB"]
 will_learn: ["Computer Sciences"]
 hobbies: ["Dirtbikes", "Mechanics", "Gaming", "Camping", "Spending Time with family"]
 ```
 
-
-
- 
-```yaml
-section: spotify components info
-tutorial_path: guilyx/guilyx/how-to.md
-original_idea: natemoo-re
-improved_by: andyruwruw
-note: thanks to both of them!
-```
 
 
 **:zap: Recent Activity:**
@@ -53,7 +43,10 @@ note: thanks to both of them!
 
 
 **🐱 My GitHub Data** 
-
+> 15 commits in 7 Repo's
+ >
+> 36 contributions since May of 2023
+ >
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
